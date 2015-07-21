@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HackALamp</string>
+
+    <string name="statusConnected">Connected!</string>
+    <string name="statusDisconnected">Disconnected!</string>
+    <string name="action_settings">Settings</string>
+    <string name="DisconnectBT">Disconnect BT</string>
+    <string name="ConnectBT">Connect BT</string>
+    <string name="switchLamp">Light</string>
+</resources>
